@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "904779084150",
+    "project_id": "transport-biometric",
+    "storage_bucket": "transport-biometric.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904779084150:android:4ea2a2674cfd4021478a57",
+        "android_client_info": {
+          "package_name": "com.example.biometric_transport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904779084150-5r879d2j32jjipiribuu69imgo690rml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.biometric_transport",
+            "certificate_hash": "cd07cca25e0349d0bdc112734b4cfaa766a373ba"
+          }
+        },
+        {
+          "client_id": "904779084150-ev6lcgv0e4f9ficndn0n19c1v7jeetfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPcn20XqAAR60GDSVIj4f6UJqnEKXZan8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904779084150-ev6lcgv0e4f9ficndn0n19c1v7jeetfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
